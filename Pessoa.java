@@ -1,6 +1,6 @@
 package br.com.poli;
 // LPOO 2020.3
-// dupla: Pedro Hirschle e Tito Sales   
+// desenvolvido por: Pedro Hirschle e Tito Sales   
     public class Pessoa {
 	
 	private String nome;
